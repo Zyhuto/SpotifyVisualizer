@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyVisualizer", "SpotifyVisualizer\SpotifyVisualizer.csproj", "{ADD0724F-8855-49BC-A1B6-47AE609375BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotifyVisualizerConsole", "SpotifyVisualizerConsole\SpotifyVisualizerConsole.csproj", "{E304EEA5-6877-405E-88FA-129A5E91D811}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ADD0724F-8855-49BC-A1B6-47AE609375BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADD0724F-8855-49BC-A1B6-47AE609375BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADD0724F-8855-49BC-A1B6-47AE609375BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E304EEA5-6877-405E-88FA-129A5E91D811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E304EEA5-6877-405E-88FA-129A5E91D811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E304EEA5-6877-405E-88FA-129A5E91D811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E304EEA5-6877-405E-88FA-129A5E91D811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
